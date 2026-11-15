@@ -1,2 +1,2 @@
-# Programming-Massively-Parallel-Processors 5'th Edition
-Book exercises from chapter 2 and ongoing.
+# Programming-Massively-Parallel-Processors 2'dn Edition
+Book exercises from chapter 2 to chapter 7.
